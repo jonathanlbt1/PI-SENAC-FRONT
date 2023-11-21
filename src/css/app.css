@@ -1,0 +1,18 @@
+/* app global css */
+
+@font-face {
+  font-family: nunito;
+  src: url(./Poppins/Poppins-Regular.ttf);
+}
+
+.poppins {
+  font-family: "nunito";
+}
+
+* {
+  font-family: nunito;
+}
+
+img {
+  object-fit: contain !important;
+}

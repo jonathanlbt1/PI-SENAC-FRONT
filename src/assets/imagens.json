@@ -1,0 +1,16 @@
+{
+  "images": [
+    {
+      "name": "burger",
+      "url": "https://example.com/burger.jpg"
+    },
+    {
+      "name": "pizza",
+      "url": "https://example.com/pizza.jpg"
+    },
+    {
+      "name": "salad",
+      "url": "https://example.com/salad.jpg"
+    }
+  ]
+}
